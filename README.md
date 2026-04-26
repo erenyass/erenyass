@@ -15,8 +15,3 @@ Tenho interesse em aprender continuamente e aplicar tecnologia para resolver pro
 - Processamento de Imagens  
 - Geoprocessamento  
 
-##  Áreas de Interesse
-- Sensoriamento Remoto  
-- Análise Espacial  
-- Ciência de Dados Geográficos  
-- Automação de Processos  
