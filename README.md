@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Ellen
 
-## 🚀 Sobre mim
+##  Sobre mim
 Estou iniciando minha trajetória na área de tecnologia, com foco em desenvolvimento de habilidades práticas e construção de projetos relevantes.
 
 Atualmente, trabalho com:
@@ -9,28 +9,19 @@ Atualmente, trabalho com:
 
 Tenho interesse em aprender continuamente e aplicar tecnologia para resolver problemas reais, especialmente nas áreas de geotecnologias e análise espacial.
 
----
-
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 - QGIS  
 - Python (em aprendizado/aplicação)  
 - Processamento de Imagens  
 - Geoprocessamento  
 
----
-
-## 📊 Áreas de Interesse
+##  Áreas de Interesse
 - Sensoriamento Remoto  
 - Análise Espacial  
 - Ciência de Dados Geográficos  
 - Automação de Processos  
 
---- 
 
----
-
-## ⚡ Objetivo
-Desenvolver habilidades técnicas sólidas e contribuir com projetos que integrem tecnologia e análise espacial, buscando evolução constante na área de geotecnologias.
 
 <!--
 **ellenyasmim806-lang/ellenyasmim806-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
