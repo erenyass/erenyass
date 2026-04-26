@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Ellen
+# Olá, eu sou a Ellen
 
 ##  Sobre mim
 Estou iniciando minha trajetória na área de tecnologia, com foco em desenvolvimento de habilidades práticas e construção de projetos relevantes.
@@ -21,12 +21,6 @@ Tenho interesse em aprender continuamente e aplicar tecnologia para resolver pro
 - Ciência de Dados Geográficos  
 - Automação de Processos  
 
-
-
-<!--
-**ellenyasmim806-lang/ellenyasmim806-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
